@@ -1,4 +1,4 @@
-# 🛒 Online Store
+# Online Store
 
 A fullstack e-commerce web app built with **React, Node.js, Express, and MySQL**.  
 Users can browse products, search by category, add items to cart, and manage their account.
