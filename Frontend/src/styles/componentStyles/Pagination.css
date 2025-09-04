@@ -1,0 +1,30 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 100px;
+    width: 100%;
+}
+
+.active,
+.nonActive {
+    height: 35px;
+    width: 35px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid rgb(101, 101, 101);
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.nonActive:hover {
+    background-color: rgb(187, 187, 187);
+    cursor: pointer;
+}
+
+.active {
+    background-color: black;
+    color: white;
+}

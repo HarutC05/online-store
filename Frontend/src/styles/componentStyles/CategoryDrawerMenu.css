@@ -1,0 +1,51 @@
+.drawer-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 99;
+}
+
+.drawer-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100%;
+    background-color: #fff;
+    z-index: 100;
+    padding: 20px;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.drawer-section {
+    margin-bottom: 20px;
+}
+
+.drawer-section-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.drawer-section-list li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.drawer-section-list button {
+    width: 100%;
+    padding: 8px 12px;
+    font-size: 16px;
+    text-align: left;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.drawer-section-list button:hover {
+    background-color: #eaeded;
+}

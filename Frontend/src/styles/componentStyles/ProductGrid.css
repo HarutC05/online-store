@@ -1,0 +1,45 @@
+.product-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.2rem;
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    text-align: start;
+    height: auto;
+}
+
+.product-card:hover {
+    cursor: pointer;
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    transition: all 0.5s;
+}
+
+.product-card img:hover {
+    transform: scale(1.2);
+}
+
+.top-portion {
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-to-cart-button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: 550;
+    border: none;
+    padding: 10px;
+    background-color: rgb(110, 156, 255);
+}
