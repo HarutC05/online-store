@@ -195,24 +195,22 @@ Visit the site at `http://localhost:5173` (or Vite’s default port).
 ## 📸 Screenshots
 
 **Home Page**
-![Home Page](./screenshots/home.png)
+![Home Page](./Screenshots/home.png)
 
 **Product Details**
-![Product Details](./screenshots/product-details.png)
+![Product Details](./Screenshots/product-details.png)
 
 **Cart Page**
-![Cart Page](./screenshots/cart.png)
+![Cart Page](./Screenshots/cart.png)
 
 **Admin Dashboard**
-![Admin Dashboard](./screenshots/admin.png)
-
-> Optional: You can replace static screenshots with GIFs showing hover effects, image slider, or cart interactions for a professional touch.
+![Admin Dashboard](./Screenshots/admin.png)
 
 ---
 
 ## 🌍 Live Demo
 
-👉 \[Add your deployed link here]
+👉 /Comming Soon...
 
 ---
 
@@ -228,6 +226,6 @@ Visit the site at `http://localhost:5173` (or Vite’s default port).
 
 ## 💻 Author
 
-Harut Gaspar
+Harut Choloyan
 [GitHub](https://github.com/HarutC05)
 
